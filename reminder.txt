@@ -1,0 +1,5 @@
+1. create file in vim
+:e %:h/file_name
+
+2. call function
+:call func_name
